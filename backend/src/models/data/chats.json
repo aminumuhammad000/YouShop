@@ -1,0 +1,177 @@
+[
+  {
+    "_id": "chat1",
+    "name": "Tasty Bites Restaurent",
+    "avatarColor": "#1F2937",
+    "lastMessage": "Voice message",
+    "lastMessageTime": "2026-09-21T16:12:16.654Z",
+    "unread": 1,
+    "messages": [
+      {
+        "id": "chat1_msg_1",
+        "fromMe": true,
+        "text": "Hi, I'd like to place an order. Are you still accepting deliveries today?",
+        "time": "5:32 PM"
+      },
+      {
+        "id": "chat1_msg_2",
+        "fromMe": false,
+        "isVoice": true,
+        "duration": "00:23",
+        "time": "5:48 PM"
+      },
+      {
+        "id": "chat1_msg_3",
+        "fromMe": true,
+        "text": "I'd like the grilled chicken rice bowl and a bottle of water. Can I add extra sauce?",
+        "time": "6:02 PM"
+      },
+      {
+        "id": "chat1_msg_4",
+        "fromMe": false,
+        "text": "Yes it's available, 4000 for the small one, 7500 for the big package, it'll be ready for delivery anytime after 9:00pm tonight.",
+        "time": "6:08 PM"
+      },
+      {
+        "fromMe": true,
+        "text": "On my way with your order now",
+        "attachment": null,
+        "type": "text",
+        "isVoice": false,
+        "duration": null,
+        "time": "3:24 PM",
+        "timestamp": "2026-09-17T14:24:04.304Z",
+        "id": "chat1_676xylj_1789655044305"
+      },
+      {
+        "fromMe": true,
+        "text": "Encountered traffic, arriving in 8 minutes",
+        "attachment": null,
+        "type": "text",
+        "isVoice": false,
+        "duration": null,
+        "time": "3:24 PM",
+        "timestamp": "2026-09-17T14:24:09.507Z",
+        "id": "chat1_xwzgp0b_1789655049510"
+      },
+      {
+        "fromMe": true,
+        "text": "",
+        "attachment": {
+          "name": "Voice message.webm",
+          "size": 2228,
+          "type": "audio/webm",
+          "url": "blob:http://localhost:5173/6e83a458-5dad-4511-a95b-dbf439258c0e"
+        },
+        "type": "attachment",
+        "isVoice": false,
+        "duration": null,
+        "time": "4:54 PM",
+        "timestamp": "2026-09-17T15:54:05.107Z",
+        "id": "chat1_022aw5o_1789660445109"
+      },
+      {
+        "fromMe": true,
+        "text": "",
+        "attachment": {
+          "name": "DATSIYA FASSARAR SULTAN =2026 action talla.mp4",
+          "size": 1942696096,
+          "type": "video/mp4",
+          "url": "blob:http://localhost:5173/2599e73a-e16c-4557-aded-184fe9f6d2ee"
+        },
+        "type": "attachment",
+        "isVoice": false,
+        "duration": null,
+        "time": "5:12 PM",
+        "timestamp": "2026-09-21T16:12:16.648Z",
+        "id": "chat1_5qfqdie_1790007136654"
+      }
+    ]
+  },
+  {
+    "_id": "chat2",
+    "name": "Annie Brown",
+    "avatarColor": "#FBBF24",
+    "lastMessage": "Am reviewing your offer currently, i'll get back to you when i make ...",
+    "lastMessageTime": "2026-07-30T14:35:55.287Z",
+    "unread": 0,
+    "messages": []
+  },
+  {
+    "_id": "chat3",
+    "name": "Ayman Clothing ng",
+    "avatarColor": "#FDE68A",
+    "lastMessage": "The current morroco style i have is the original one, 600k last pri...",
+    "lastMessageTime": "2026-07-30T14:35:55.287Z",
+    "unread": 0,
+    "messages": []
+  },
+  {
+    "_id": "chat4",
+    "name": "Hajiya's Henna spot",
+    "avatarColor": "#4B5563",
+    "lastMessage": "bjbhujb",
+    "lastMessageTime": "2026-07-31T13:12:35.150Z",
+    "unread": 2,
+    "messages": [
+      {
+        "id": "chat4_msg_1",
+        "fromMe": true,
+        "text": "Aslm",
+        "time": "3:42 PM",
+        "timestamp": "2026-07-30T14:42:09.229Z"
+      },
+      {
+        "fromMe": false,
+        "text": "bjbhujb",
+        "time": "2:12 PM",
+        "timestamp": "2026-07-31T13:12:35.020Z",
+        "id": 2
+      }
+    ]
+  },
+  {
+    "_id": "chat5",
+    "name": "Crunchy Bites",
+    "avatarColor": "#BFDBFE",
+    "lastMessage": "Okay... How many do you need?",
+    "lastMessageTime": "2026-07-30T14:35:55.287Z",
+    "unread": 1,
+    "messages": []
+  },
+  {
+    "_id": "chat6",
+    "name": "Karim Electronics",
+    "avatarColor": "#10B981",
+    "lastMessage": "HEY",
+    "lastMessageTime": "2026-07-31T10:20:16.362Z",
+    "unread": 1,
+    "messages": [
+      {
+        "id": "chat6_msg_1",
+        "fromMe": false,
+        "text": "HEY",
+        "time": "11:20 AM",
+        "timestamp": "2026-07-31T10:20:16.360Z"
+      }
+    ]
+  },
+  {
+    "_id": "chat7",
+    "name": "Sara Beauty Lounge",
+    "avatarColor": "#F472B6",
+    "lastMessage": "Your appointment is booked for Friday.",
+    "lastMessageTime": "2026-07-30T14:35:55.287Z",
+    "unread": 3,
+    "messages": []
+  },
+  {
+    "_id": "chat8",
+    "name": "Zainab Fashion Hub",
+    "avatarColor": "#1F2937",
+    "lastMessage": "Your dress size is confirmed, thank you",
+    "lastMessageTime": "2026-07-30T14:35:55.287Z",
+    "unread": 0,
+    "messages": []
+  }
+]

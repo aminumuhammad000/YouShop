@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "cat1",
+    "name": "Food",
+    "description": "Gourmet foods and local dishes"
+  },
+  {
+    "_id": "cat2",
+    "name": "Drinks",
+    "description": "Beverages, juices and zobos"
+  },
+  {
+    "_id": "cat3",
+    "name": "Electronics",
+    "description": "Gadgets and accessories"
+  },
+  {
+    "_id": "cat4",
+    "name": "Clothing",
+    "description": "Apparel and fashion"
+  }
+]
